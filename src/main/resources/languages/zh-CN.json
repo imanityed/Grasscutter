@@ -82,7 +82,7 @@
         "itemLevel": "无效的物品等级。",
         "itemRefinement": "无效的物品精炼等级。",
         "statValue": "无效的属性值。",
-        "value_between": "无效值: %s 必须在 %s 和 %s 之间。",
+        "value_between": "无效值: %s 必须介于 %s 和 %s 之间。",
         "playerId": "无效的玩家ID。",
         "uid": "无效的UID。",
         "id": "无效的ID。"
