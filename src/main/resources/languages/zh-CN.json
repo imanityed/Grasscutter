@@ -55,8 +55,8 @@
       "version": "Grasscutter 版本：%s-%s",
       "game_version": "游戏版本：%s",
       "resources": {
-        "loading": "Loading resources...",
-        "finish": "Finished loading resources."
+        "loading": "加载资源中...",
+        "finish": "资源加载完成。"
       }
     }
   },
@@ -82,7 +82,7 @@
         "itemLevel": "无效的物品等级。",
         "itemRefinement": "无效的物品精炼等级。",
         "statValue": "无效的属性值。",
-        "value_between": "Invalid value: %s must be between %s and %s.",
+        "value_between": "无效值: %s，必须在 %s 到 %s 之间。",
         "playerId": "无效的玩家ID。",
         "uid": "无效的UID。",
         "id": "无效的ID。"
@@ -380,7 +380,7 @@
   },
   "documentation": {
     "handbook": {
-      "title": "GM Handbook",
+      "title": "游戏管理员手册",
       "title_commands": "命令",
       "title_avatars": "角色",
       "title_items": "物品",
@@ -396,7 +396,7 @@
     },
     "index": {
       "title": "文档",
-      "handbook": "GM Handbook",
+      "handbook": "游戏管理员手册",
       "gacha_mapping": "祈愿物品映射JSON"
     }
   }
