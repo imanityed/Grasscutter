@@ -55,7 +55,7 @@
       "version": "Grasscutter 版本：%s-%s",
       "game_version": "游戏版本：%s",
       "resources": {
-        "loading": "加载资源中...",
+        "loading": "资源加载中...",
         "finish": "资源加载完成。"
       }
     }
